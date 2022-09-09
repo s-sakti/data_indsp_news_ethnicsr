@@ -1,6 +1,6 @@
 # INDspeech06: INDspeech_NEWS_EthnicSR
 
-This is a collection of Indonesian ethnic speech corpora for Javanese and Sundanese for Indonesian ethnic speech recognition. It was developed in 2012 by the Nara Institute of Science and Technology (NAIST, Japan) in collaboration with the Bandung Institute of Technology (ITB, Indonesia).
+This is a collection of Indonesian ethnic speech corpora for Javanese and Sundanese for Indonesian ethnic speech recognition. It was developed in 2012 by the Nara Institute of Science and Technology (NAIST, Japan) in collaboration with the Bandung Institute of Technology (ITB, Indonesia) [[Sani et al., 2012](https://ieeexplore.ieee.org/document/6422469)].
 
 ## Text and Speech Resources
 
@@ -49,10 +49,10 @@ This data is licensed under the [Creative Commons Attribution-NonCommercial-Shar
 
 Please cite the following papers:
 
-[[Sakti et al., 2008](doc/2012_ssakti_OCOCOSDA.pdf)]:
+[[Sani et al., 2012](doc/2012_ssakti_OCOCOSDA.pdf)]:
 
 ```
-@inproceedings{sakti-tcast-2008,
+@inproceedings{sani-cocosda-2012,
     title = "Towards Language Preservation: Preliminary Collection and Vowel Analysis of {I}ndonesian Ethnic Speech Data",
     author = "Sani, Auliya and Sakti, Sakriani and Neubig, Graham and Toda, Tomoki and Mulyanto, Adi and Nakamura, Satoshi",
     booktitle = "Proc. Oriental COCOSDA",
