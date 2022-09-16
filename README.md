@@ -27,6 +27,10 @@ After that, 20 native speakers were selected, 10 native speakers (5 males and 5 
 - Content ID: news
 - Utterance ID: XXXX 
 
+# Training and Test Dataset
+
+We divide the first 200 utterances as the training data and the remaining 30 utterances as the test set (dataset1_train_news_{Jaw,Snd}.lst, dataset1_test_news_{Jaw,Snd}.lst). However, in this case, there are overlapping speakers on the training and test set. So we also set up non-overlapping speakers only based on news content, where eight speakers with 200 utterances/speaker for training and two speakers with 30 utterances/speaker for the test set (see dataset2_train_news_{Jaw,Snd}.lst and dataset2_test_news_{Jaw,Snd}.lst). 
+
 ## Pronunciation Dictionary
 
 Here we also provide the pronunciation lexicon of Javanese and Sundanese (see Jawa/text/pronunciation.lex and Sunda/text/pronunciation.lex).
