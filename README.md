@@ -1,6 +1,6 @@
 # INDspeech06: INDspeech_NEWS_EthnicSR
 
-This is a collection of Indonesian ethnic speech corpora for Javanese and Sundanese for Indonesian ethnic speech recognition. It was developed in 2012 by the Nara Institute of Science and Technology (NAIST, Japan) in collaboration with the Bandung Institute of Technology (ITB, Indonesia) [[Sani et al., 2012](https://ieeexplore.ieee.org/document/6422469)]. Furthermore, as all speakers utter the same sentences, it can also be used for voice conversion tasks.
+This is a collection of Indonesian ethnic speech corpora (Javanese and Sundanese) for Indonesian ethnic speech recognition. It was developed in 2012 by the Nara Institute of Science and Technology (NAIST, Japan) in collaboration with the Bandung Institute of Technology (ITB, Indonesia) [[Sani et al., 2012](https://ieeexplore.ieee.org/document/6422469)]. Furthermore, as all speakers utter the same sentences, it can also be used for voice conversion tasks.
 
 ## Text and Speech Resources
 
